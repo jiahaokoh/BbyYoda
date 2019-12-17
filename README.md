@@ -1,2 +1,0 @@
-# BbyYoda
-Created with CodeSandbox
